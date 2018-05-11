@@ -1,0 +1,2 @@
+# ducky
+first repo
